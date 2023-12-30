@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+!+My+name+Anna,nice+to+see+you+!+I'm+Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+My+name+Anna,+nice+to+see+you+!+I'm+Web+developer)](https://git.io/typing-svg)
 
 * 🌍  I'm based in Orlando, USA
 * ✉️  You can contact me at [atalpa85@gmail.com](mailto:atalpa85@gmail.com)
