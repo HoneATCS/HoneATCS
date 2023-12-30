@@ -4,7 +4,7 @@ I\`m Frontend Developer
 -----------------------
 * 🌍  I'm based in Orlando, USA
 * ✉️  You can contact me at [atalpa85@gmail.com](mailto:atalpa85@gmail.com)
-* Маленький (small):  
+* Codewars ;) :  
 [![codewars](https://www.codewars.com/users/AnnaTalpa/badges/small)](https://www.codewars.com/users/AnnaTalpa) 
 
 ### Skills
