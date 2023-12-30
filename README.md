@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!👋+I'm+Anna,+nice+to+see+you+!+I'm+Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!👋+I'm+Anna,+nice+to+see+you+!)](https://git.io/typing-svg)
 
 I\`m Frontend Developer
 -----------------------
